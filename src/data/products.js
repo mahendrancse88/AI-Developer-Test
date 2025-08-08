@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "UltraRun Running Shoes",
+    price: 95,
+    category: "Shoes",
+    description: "Lightweight running shoes with excellent grip.",
+    rating: 4.5,
+  },
+  {
+    id: 2,
+    name: "Comfy Casual Sneakers",
+    price: 65,
+    category: "Shoes",
+    description: "Comfortable sneakers for everyday wear.",
+    rating: 4.0,
+  },
+  {
+    id: 3,
+    name: "Smart Fitness Watch",
+    price: 150,
+    category: "Electronics",
+    description: "Track your fitness goals with style.",
+    rating: 4.7,
+  },
+  {
+    id: 4,
+    name: "Classic Leather Wallet",
+    price: 45,
+    category: "Accessories",
+    description: "Durable wallet made of genuine leather.",
+    rating: 4.2,
+  },
+  {
+    id: 5,
+    name: "Trail Blazer Hiking Boots",
+    price: 120,
+    category: "Shoes",
+    description: "Rugged boots built for tough trails.",
+    rating: 4.6,
+  },
+  {
+    id: 6,
+    name: "Wireless Earbuds",
+    price: 80,
+    category: "Electronics",
+    description: "Crystal clear sound with noise cancellation.",
+    rating: 4.3,
+  },
+  {
+    id: 7,
+    name: "Sports Water Bottle",
+    price: 20,
+    category: "Accessories",
+    description: "Stay hydrated on the go.",
+    rating: 4.1,
+  },
+  {
+    id: 8,
+    name: "Yoga Mat",
+    price: 35,
+    category: "Fitness",
+    description: "Non-slip mat for all yoga levels.",
+    rating: 4.4,
+  },
+];
+
+export default products;
